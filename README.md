@@ -11,7 +11,7 @@ In particular, as part of this section we recommend that you provide a list of U
 As a user type, I want to perform an action, so that I can achieve a goal.
 This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
 
-User Story
+## User Story 
 As a fan, I want to know the band's touring schedule, so I can buy tickets to see them in concert. 
 As a fan, I want to see pictures of the band, see video of their performance, and read about thier history.
 As a fan, I want to read the discography so I can learn about albums I might want to buy.
