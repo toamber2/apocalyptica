@@ -7,12 +7,34 @@
 */
 
 /*Footer alignment*/
-.pull-right {
+/*.pull-right {
     float: right;
     margin-right: 30px;
 }
 
-/*.pull-left {
+.pull-left {
     float:left;
     margin-left: 30px;
 }*/
+footer {
+	background-color: #002159;
+	position: sticky;
+	top: 100vh;
+	padding: 20px 0;
+}
+.fab {
+	font-size: 5rem;
+}
+.fa-facebook {
+	color:#bcada2;
+}
+.fa-twitter {
+	color: #bcada2;
+}
+.fa-youtube {
+	color:#bcada2;
+}
+img {
+	height: auto;
+	width: 300px;
+}
