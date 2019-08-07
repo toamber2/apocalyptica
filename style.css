@@ -5,3 +5,14 @@
 #315f7e cornflower 
 #3c87a7 medium blue 
 */
+
+/*Footer alignment*/
+.pull-right {
+    float: right;
+    margin-right: 30px;
+}
+
+/*.pull-left {
+    float:left;
+    margin-left: 30px;
+}*/
