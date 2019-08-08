@@ -6,18 +6,14 @@
 #3c87a7 medium blue 
 */
 
-/*Footer alignment*/
-/*.pull-right {
-    float: right;
-    margin-right: 30px;
+body {
+	height: 100vh;
 }
-
-.pull-left {
-    float:left;
-    margin-left: 30px;
-}*/
+main {
+	height: 100vh;
+}
 footer {
-	background-color: #002159;
+	background-color:#bcada2;
 	position: sticky;
 	top: 100vh;
 	padding: 20px 0;
@@ -26,15 +22,15 @@ footer {
 	font-size: 5rem;
 }
 .fa-facebook {
-	color:#bcada2;
-}
-.fa-twitter {
-	color: #bcada2;
+	color: #002159;
 }
 .fa-youtube {
-	color:#bcada2;
+	color:#002159;
+}
+.fa-instagram {
+	color:#002159;
 }
 img {
-	height: auto;
-	width: 300px;
+	height: 300px;
+	width: 900px;
 }
