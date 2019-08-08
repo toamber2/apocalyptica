@@ -8,12 +8,13 @@
 
 body {
 	height: 100vh;
+	background-color:#bcada2;
 }
 main {
 	height: 100vh;
 }
 footer {
-	background-color:#bcada2;
+	background-color: #002159;
 	position: sticky;
 	top: 100vh;
 	padding: 20px 0;
@@ -25,3 +26,4 @@ img {
 	height: 300px;
 	width: 900px;
 }
+
