@@ -31,7 +31,7 @@ img {
 /* Jumbotron section*/
 
 .jumbotron-homepage {
-	color:white;
+	color: #3c87a7;
 	font-family: Georgia, 'Times New Roman', Times, serif;
 	background-image: url("images/Apocalyptica_painting.jpg");
 	background-position: center;
@@ -40,7 +40,7 @@ img {
 	height: 100vh;
   } 
   .jumbotron-members {
-	color: white;
+	color: #3c87a7;
 	font-family: Georgia, 'Times New Roman', Times, serif;
 	background-image: url("images/band_members.jpg");
 	background-position: center;
@@ -49,7 +49,7 @@ img {
 	height: 100vh;
   }
   .jumbotron-music {
-	color: white;
+	color: #3c87a7;
 	font-family: Georgia, 'Times New Roman', Times, serif;
 	background-image: url("images/Apocalyptica_crowd.jpg");
 	background-position: center;
@@ -58,7 +58,7 @@ img {
 	height: 100vh;
   }
   .jumbotron-photos {
-	color:#002159;
+	color: #3c87a7;
 	font-family: Georgia, 'Times New Roman', Times, serif;
 	background-image: url("images/apocalyptica_featured.jpg");
 	background-position: center;
