@@ -6,8 +6,8 @@
 #3c87a7 medium blue 
 */
 
-body {
-	height: 100vh;
+body, html {
+	height: 100%;
 	background-color:#bcada2;
 }
 main {
@@ -26,4 +26,37 @@ img {
 	height: 300px;
 	width: 900px;
 }
+/* Jumbotron section*/
 
+.jumbotron-homepage {
+	color:#002159;
+	background-image: url("images/Apocalyptica_painting.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+  } 
+  .jumbotron-members {
+	color: white;
+	background-image: url("images/band_members.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+  }
+  .jumbotron-music {
+	color: white;
+	background-image: url("images/Apocalyptica_crowd.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+  }
+  .jumbotron-photos {
+	color: white;
+	background-image: url("images/apocalyptica_featured.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height:100vh;
+  }
