@@ -71,3 +71,6 @@ img {
 	width: 300px; 
 	overflow: hidden;
   }
+  .display-4 {
+	text-align: center;
+  }
