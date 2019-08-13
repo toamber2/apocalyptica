@@ -28,6 +28,10 @@ img {
 	height: 300px;
 	width: 900px;
 }
+iframe {
+	display:block;
+	margin:auto;
+}
 /* Jumbotron section*/
 
 .jumbotron-homepage {
