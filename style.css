@@ -32,6 +32,11 @@ iframe {
 	display:block;
 	margin:auto;
 }
+.biotext {
+	border:3px;
+	border-style: solid;
+	border-color: #002159;
+}
 /* Jumbotron section*/
 
 .jumbotron-homepage {
