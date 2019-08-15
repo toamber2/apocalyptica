@@ -1,8 +1,8 @@
-# apocalyptica
-Fansite for Finnish musical group Apocalyptica
 #Project Name
+Fansite for Finnish musical group Apocalyptica
+
 ##UX
-The application is designed with the teen and adult fans of the Finnish symphonic metal band Apocalyptica in mind. Fans can read about the band's history and bios of each current member, see photos of the group, watch footage of a concert and check the touring schedule.
+The application is designed with the teen and adult fans of the Finnish symphonic metal band Apocalyptica in mind. Fans can read about the band's history and bios of each current member, see photos of the group, watch footage of a concert, see the discography and check the touring schedule.
  
 This project is a responsive 4-page static website made with Bootstrap 4. Features include embedded YouTube video, contact form, photo gallery, and tables of tour dates, discography and member information.
 
