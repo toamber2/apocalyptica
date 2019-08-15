@@ -27,6 +27,9 @@ footer {
 img {
 	height: 300px;
 	width: 900px;
+	padding:3px;
+	border:1px solid #002159;
+	background-color:#315f7e;
 }
 iframe {
 	display:block;
@@ -40,7 +43,7 @@ iframe {
 /* Jumbotron section*/
 
 .jumbotron-homepage {
-	color: #3c87a7;
+	border:4px solid #002159;
 	font-family: Georgia, 'Times New Roman', Times, serif;
 	background-image: url("images/Apocalyptica_painting.jpg");
 	background-position: center;
@@ -49,7 +52,7 @@ iframe {
 	height: 100vh;
   } 
   .jumbotron-members {
-	color: #3c87a7;
+	border:4px solid #002159;
 	font-family: Georgia, 'Times New Roman', Times, serif;
 	background-image: url("images/band_members.jpg");
 	background-position: center;
@@ -58,7 +61,7 @@ iframe {
 	height: 100vh;
   }
   .jumbotron-music {
-	color: #3c87a7;
+	border:4px solid #002159;
 	font-family: Georgia, 'Times New Roman', Times, serif;
 	background-image: url("images/Apocalyptica_crowd.jpg");
 	background-position: center;
@@ -67,7 +70,7 @@ iframe {
 	height: 100vh;
   }
   .jumbotron-photos {
-	color: #3c87a7;
+	border:4px solid #002159;
 	font-family: Georgia, 'Times New Roman', Times, serif;
 	background-image: url("images/apocalyptica_featured.jpg");
 	background-position: center;
@@ -75,6 +78,7 @@ iframe {
 	background-size: cover;
 	height:100vh;
   }
+  /*end jumbotron styles*/
   .card-img-top {
 	height: 400px;
 	overflow: hidden;
