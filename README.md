@@ -1,39 +1,41 @@
 # apocalyptica
 Fansite for Finnish musical group Apocalyptica
 #Project Name
-<-- 1 or 2 paragraph overview/sales pitch of project>
-This is a responsive website dedicated to the Finnish musical group Apocalyptica. 
-## UX
-Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
+##UX
+The application is designed with the teen and adult fans of the Finnish symphonic metal band Apocalyptica in mind. Fans can read about the band's history and bios of each current member, see photos of the group, watch footage of a concert and check the touring schedule.
+ 
+This project is a responsive 4-page static website made with Bootstrap 4. Features include embedded YouTube video, contact form, photo gallery, and tables of tour dates, discography and member information.
 
-In particular, as part of this section we recommend that you provide a list of User Stories, with the following general structure:
-
-As a user type, I want to perform an action, so that I can achieve a goal.
-This section is also where you would share links to any wireframes, mockups, diagrams etc. that you created as part of the design process. These files should themselves either be included in the project itself (in an separate directory), or just hosted elsewhere online and can be in any format that is viewable inside the browser.
-ADD LINK TO WIREFRAMES FOLDER, or link to each specific one (mobile, desktop)
-
+The wireframes for this project can be found in the wireframes folder, which is located in the github repository.
 
 ## User Story 
 As a fan, I want to know the band's touring schedule, so I can buy tickets to see them in concert. 
+As a fan, I want to learn about the history of the band, so I can increase my familiarity with the band.
+As a fan, I want to learn about the individual musicians in the band, so I can learn their training and other projects I might enjoy listening to.
 As a fan, I want to see pictures of the band, see video of their performance, and read about thier history.
 As a fan, I want to read the discography so I can learn about albums I might want to buy.
 As a fan, I want to send messages of support or questions to the band so I can connect with them. 
  
 
 ## Features
-examples: contact form
-### Existing Features
-Feature 1 - allows users X to achieve Y, by having them fill out Z
-...
-For some/all of your features, you may choose to reference the specific project files that implement them, although this is entirely optional.
+This application's features include: a contact form, photo gallery, touring calendar, discography, previous members table, band biography, current member biographies
 
-In addition, you may also use this section to discuss plans for additional features to be implemented in the future:
+### Existing Features
+The photo gallery contains multiple color photos of the band.
+The embeded video plays footage of an Apocalyptica concert. 
+The touring calendar provides the event, date, and location of summer 2019 performances.
+The discography table gives the title and year of release for all the full length Apocalyptica albums.
+The previous members table gives the names and instruments of former members, with links to external websites about them.
+The band biography section provides an overview of the 26 years that the band has performed.
+The biography sections of current members contain summaries of their careers and links to external websites with more info. 
+
 ### Features left to implement
-another future idea
+The brief for this milestone provides specifications to make a static website that does not use JavaScript. At a future point in time, though, interactivity can be added with the addition of JavaScript. 
+The contact form does not hook in to a back end at this time, but that is a feature I can expand upon in the future.
 
 ## Technologies used
-languages, frameworks, libraries etc used. For each, give the name, link to the official site and a short sentence of why it was used
-bootstrap 4, html, css
+*bootstrap 4 https://getbootstrap.com/ Bootstrap 4 was used because it provides a responsive grid that enables the site to display on any screen size. Default Bootstrap styling was supplemented with an external CSS stylesheet to provide a more customized appearance. 
+
 
 ## Testing
 In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
@@ -64,6 +66,7 @@ You should also mention in this section any interesting bugs or problems you dis
 
 If this section grows too long, you may want to split it off into a separate file and link to it from here.
 ## Deployment
+
 To run this website locally, it is useful to install the Live Server extension in Visual Studio Code. When the Live Server extension is installed, there are two ways to run the website locally. Open Visual Studio Code, and open the folder containing the project. Open the index.html file. There is a toolbar at the bottom of the screen. Click on the button "Go Live". If that button is not showing, you may need to run the extension from the command palette. Search for Live Server and select Run. Your browser will then open and display the Apocalyptica website. 
 ------------------------------------------------------------------------------------------------------
 This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
@@ -80,20 +83,14 @@ In addition, if it is not obvious, you should also describe how to run your code
 ### Content
 
 ### Media
-https://www.discogs.com/artist/17482-Apocalyptica is the source for photos [discogs1, discogs2, discogs3, discogs4].
-https://www.apocalyptica.com/en/ is the source for photos [band_wall, five_members, band_skull, band_members, apocalyptica_crowd, apocalyptica_logo]
-
-Members page gallery photos were taken from wikipedia. 
-Eicca's member's page photo attribution: By Tuomas Vitikainen - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7378605
-i downloaded large size, but it's portrait mode from here https://en.wikipedia.org/wiki/Eicca_Toppinen#/media/File:Eicca_Toppinen_-_Ilosaarirock_2009.jpg
-
-Paava large size By Tuomas Vitikainen - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7379186
+*https://www.discogs.com/artist/17482-Apocalyptica is the source for photos [discogs1, discogs2, discogs3, discogs4].
+*https://www.apocalyptica.com/en/ is the source for photos [band_wall, five_members, band_skull, band_members, apocalyptica_crowd, apocalyptica_logo]
+*Members page gallery photos were taken from wikipedia. 
+*Eicca's member's page photo attribution: By Tuomas Vitikainen - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7378605
+*portrait mode from here https://en.wikipedia.org/wiki/Eicca_Toppinen#/media/File:Eicca_Toppinen_-_Ilosaarirock_2009.jpg
+*Paava large size By Tuomas Vitikainen - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7379186
 https://en.wikipedia.org/wiki/Paavo_L%C3%B6tj%C3%B6nen#/media/File:Paavo_L%C3%B6tj%C3%B6nen_-_Ilosaarirock_2009.jpg
-
-Perttu By Tuomas Vitikainen - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7376672
-https://en.wikipedia.org/wiki/Perttu_Kivilaakso#/media/File:Perttu_Kivilaakso_-_Ilosaarirock_2009.jpg
-
-Mikko By P. Schwichtenberg - Own work, CC BY-SA 3.0 ] https://commons.wikimedia.org/w/index.php?curid=34587934
+*Mikko By P. Schwichtenberg - Own work, CC BY-SA 3.0 ] https://commons.wikimedia.org/w/index.php?curid=34587934
 https://en.wikipedia.org/wiki/Mikko_Sir%C3%A9n
 
 
