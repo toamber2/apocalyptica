@@ -52,17 +52,9 @@ Each link was tested and each opens in a new tab.
 Photos, video, tables, contact form and photo cards are responsive at each screen size: mobile, tablet, and desktop. Tablet and mobile screen sizes render well in portrait and landscape modes. This was tested using Chrome Developer Tools.
 
 ## Deployment
+The website was deployed using GitHub Pages and can be viewed at [My Github](https://toamber2.github.io/apocalyptica/). Features are responsive and render as desired in deployed version. 
 
 To run this website locally, it is useful to install the Live Server extension in Visual Studio Code. When the Live Server extension is installed, there are two ways to run the website locally. Open Visual Studio Code, and open the folder containing the project. Open the index.html file. There is a toolbar at the bottom of the screen. Click on the button "Go Live". If that button is not showing, you may need to run the extension from the command palette. Search for Live Server and select Run. Your browser will then open and display the Apocalyptica website. 
-------------------------------------------------------------------------------------------------------
-This section should describe the process you went through to deploy the project to a hosting platform (e.g. GitHub Pages or Heroku).
-
-In particular, you should provide all details of the differences between the deployed version and the development version, if any, including:
-
-Different values for environment variables (Heroku Config Vars)?
-Different configuration files?
-Separate git branch?
-In addition, if it is not obvious, you should also describe how to run your code locally.
 
 ## Credits
 Code samples from the Bootstrap documentation were used for the header, footer, embedded responsive video, photo gallery cards  and contact form.
@@ -85,40 +77,4 @@ The embedded video of concert footage is taken from Apocalyptica's offical YouTu
 
 ### Acknowledgements
 Thanks to Anna Greaves and Simen Daehlin for their assistance with questions throughout the project.
-
-# Markdown Cheatsheet
----
-https://guides.github.com/features/mastering-markdown/
-
-
-One pound sign = H1, 2 pound signs = H2 etc.
-
-italics- surround with single asterisks or surround with single underscores
-
-strong text double asterisks or double underscores
-
-strikethrough double tilde
-
-horizontal rule to make a line separating, use triple underscores or triple hyphens. Must be alone on the line.
-
-Escape with backslash
-
-block quotes use the greater than sign
-> this is a quote
-
-
-links text goes in square brackets and the link goes in parentheses. To have tooltip text, include a space and then the text in quotes
-[Example ReadMe]("http://www.example.com "Example Here")
-
-Unordered lists
-
-One asterisk for each item
-
-nested items: tab over and type another asterisk
-
-Ordered lists are a little odd. You type the number 1 followed by a period for every item in the ordered list. The list will be ordered accurately even though you've put them down as all being 1.
-
-inline code block- surround with backticks
-
-___
 
