@@ -6,7 +6,7 @@ The application is designed with the teen and adult fans of the Finnish symphoni
  
 This project is a responsive 4-page static website made with Bootstrap 4. Features include embedded YouTube video, contact form, photo gallery, and tables of tour dates, discography and member information.
 
-The wireframes for this project can be found in the wireframes folder, which is located in the github repository.
+The wireframes for this project can be found in the wireframes folder, which is located in the github repository [here](https://github.com/toamber2/apocalyptica/tree/master/wireframes)
 
 ## User Story 
 As a fan, I want to know the band's touring schedule, so I can buy tickets to see them in concert. 
@@ -34,11 +34,11 @@ The brief for this milestone provides specifications to make a static website th
 The contact form does not hook in to a back end at this time, but that is a feature I can expand upon in the future.
 
 ## Technologies used
-*bootstrap 4 https://getbootstrap.com/ Bootstrap 4 was used because it provides a responsive grid that enables the site to display on any screen size. Default Bootstrap styling was supplemented with an external CSS stylesheet to provide a more customized appearance. 
+Bootstrap 4 [Bootstrap](https://getbootstrap.com/) was used because it provides a responsive grid that enables the site to display on any screen size. Default Bootstrap styling was supplemented with an external CSS stylesheet to provide a more customized appearance. 
 
 
 ## Testing
-In this section, you need to convince the assessor that you have conducted enough testing to legitimately believe that the site works well. Essentially, in this part you will want to go over all of your user stories from the UX section and ensure that they all work as intended, with the project providing an easy and straightforward way for the users to achieve their goals.
+The code was validated using W3Schools Markup Validation Service https://validator.w3.org/
 
 Users can see photos of the band on each page, and a gallery of photos on the Photos page. Additionally, the footer has links to Apocolyptica's Instagram and Facebook for more photos. 
 
@@ -48,23 +48,9 @@ Users can read about the band in the Bio section on the homepage, and access mor
 
 Users can see the concert calendar on the homepage, so they can plan to attend a concert. 
 
-Users can send questions or comments to the band using the Contact form on the homepage. 
-----------------------------------------------------------------------------------------------------------
+Each link was tested and each opens in a new tab.
+Photos, video, tables, contact form and photo cards are responsive at each screen size: mobile, tablet, and desktop. Tablet and mobile screen sizes render well in portrait and landscape modes. This was tested using Chrome Developer Tools.
 
-Whenever it is feasible, prefer to automate your tests, and if you've done so, provide a brief explanation of your approach, link to the test file(s) and explain how to run them.
-
-For any scenarios that have not been automated, test the user stories manually and provide as much detail as is relevant. A particularly useful form for describing your testing process is via scenarios, such as:
-
-Contact form:
-Go to the "Contact Us" page
-Try to submit the empty form and verify that an error message about the required fields appears
-Try to submit the form with an invalid email address and verify that a relevant error message appears
-Try to submit the form with all inputs valid and verify that a success message appears.
-In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
-
-You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
-
-If this section grows too long, you may want to split it off into a separate file and link to it from here.
 ## Deployment
 
 To run this website locally, it is useful to install the Live Server extension in Visual Studio Code. When the Live Server extension is installed, there are two ways to run the website locally. Open Visual Studio Code, and open the folder containing the project. Open the index.html file. There is a toolbar at the bottom of the screen. Click on the button "Go Live". If that button is not showing, you may need to run the extension from the command palette. Search for Live Server and select Run. Your browser will then open and display the Apocalyptica website. 
@@ -79,23 +65,26 @@ Separate git branch?
 In addition, if it is not obvious, you should also describe how to run your code locally.
 
 ## Credits
+Code samples from the Bootstrap documentation were used for the header, footer, embedded responsive video, photo gallery cards  and contact form.
 
 ### Content
+The touring calendar content was taken from the official Apocalyptica website. [Apocalyptica Offical Website](https://www.apocalyptica.com/en/)
+The embedded video of concert footage is taken from Apocalyptica's offical YouTube channel [here](https://www.youtube.com/user/ApocalypticaVideos), which is linked in the footer as well. 
 
 ### Media
-*https://www.discogs.com/artist/17482-Apocalyptica is the source for photos [discogs1, discogs2, discogs3, discogs4].
-*https://www.apocalyptica.com/en/ is the source for photos [band_wall, five_members, band_skull, band_members, apocalyptica_crowd, apocalyptica_logo]
-*Members page gallery photos were taken from wikipedia. 
-*Eicca's member's page photo attribution: By Tuomas Vitikainen - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7378605
-*portrait mode from here https://en.wikipedia.org/wiki/Eicca_Toppinen#/media/File:Eicca_Toppinen_-_Ilosaarirock_2009.jpg
-*Paava large size By Tuomas Vitikainen - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=7379186
-https://en.wikipedia.org/wiki/Paavo_L%C3%B6tj%C3%B6nen#/media/File:Paavo_L%C3%B6tj%C3%B6nen_-_Ilosaarirock_2009.jpg
-*Mikko By P. Schwichtenberg - Own work, CC BY-SA 3.0 ] https://commons.wikimedia.org/w/index.php?curid=34587934
-https://en.wikipedia.org/wiki/Mikko_Sir%C3%A9n
+*Discogs[Discogs](https://www.discogs.com/artist/17482-Apocalyptica) is the source for photos [discogs1, discogs2, discogs3, discogs4].
+*The offical band website [Apocalyptica](https://www.apocalyptica.com/en/) is the source for photos [band_wall, five_members, band_skull, band_members, apocalyptica_crowd, apocalyptica_logo]
+*Members page gallery photos were taken from wikipedia: 
+*Eicca's member's page photo attribution: [By Tuomas Vitikainen - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=7378605)
+*portrait mode from here [Wikipedia](https://en.wikipedia.org/wiki/Eicca_Toppinen#/media/File:Eicca_Toppinen_-_Ilosaarirock_2009.jpg)
+*Paava large size [By Tuomas Vitikainen - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=7379186)
+[Wikipedia](https://en.wikipedia.org/wiki/Paavo_L%C3%B6tj%C3%B6nen#/media/File:Paavo_L%C3%B6tj%C3%B6nen_-_Ilosaarirock_2009.jpg)
+*Mikko [By P. Schwichtenberg - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=34587934)
+ and [Wikipedia](https://en.wikipedia.org/wiki/Mikko_Sir%C3%A9n)
 
 
 ### Acknowledgements
-
+Thanks to Anna Greaves and Simen Daehlin for their assistance with questions throughout the project.
 
 # Markdown Cheatsheet
 ---
