@@ -1,4 +1,4 @@
-# Project Name
+# Apocalyptica Fansite
 Fansite for Finnish musical group Apocalyptica
 
 ## UX
