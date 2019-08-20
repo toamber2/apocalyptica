@@ -1,7 +1,7 @@
-#Project Name
+# Project Name
 Fansite for Finnish musical group Apocalyptica
 
-##UX
+## UX
 The application is designed with the teen and adult fans of the Finnish symphonic metal band Apocalyptica in mind. Fans can read about the band's history and bios of each current member, see photos of the group, watch footage of a concert, see the discography and check the touring schedule.
  
 This project is a responsive 4-page static website made with Bootstrap 4. Features include embedded YouTube video, contact form, photo gallery, and tables of tour dates, discography and member information.
@@ -9,12 +9,12 @@ This project is a responsive 4-page static website made with Bootstrap 4. Featur
 The wireframes for this project can be found in the wireframes folder, which is located in the github repository [here](https://github.com/toamber2/apocalyptica/tree/master/wireframes)
 
 ## User Story 
-As a fan, I want to know the band's touring schedule, so I can buy tickets to see them in concert. 
-As a fan, I want to learn about the history of the band, so I can increase my familiarity with the band.
-As a fan, I want to learn about the individual musicians in the band, so I can learn their training and other projects I might enjoy listening to.
-As a fan, I want to see pictures of the band, see video of their performance, and read about thier history.
-As a fan, I want to read the discography so I can learn about albums I might want to buy.
-As a fan, I want to send messages of support or questions to the band so I can connect with them. 
+* As a fan, I want to know the band's touring schedule, so I can buy tickets to see them in concert. 
+* As a fan, I want to learn about the history of the band, so I can increase my familiarity with the band.
+* As a fan, I want to learn about the individual musicians in the band, so I can learn their training and other projects I might enjoy listening to.
+* As a fan, I want to see pictures of the band, see video of their performance, and read about thier history.
+* As a fan, I want to read the discography so I can learn about albums I might want to buy.
+* As a fan, I want to send messages of support or questions to the band so I can connect with them. 
  
 
 ## Features
