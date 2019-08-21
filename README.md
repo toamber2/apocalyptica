@@ -34,7 +34,7 @@ The brief for this milestone provides specifications to make a static website th
 The contact form does not hook in to a back end at this time, but that is a feature I can expand upon in the future.
 
 ## Technologies used
-Bootstrap 4 [Bootstrap](https://getbootstrap.com/) was used because it provides a responsive grid that enables the site to display on any screen size. Default Bootstrap styling was supplemented with an external CSS stylesheet to provide a more customized appearance. 
+Bootstrap 4 [Bootstrap](https://getbootstrap.com/) was used because it provides a responsive grid that enables the site to display on any screen size. Default Bootstrap styling was supplemented with an external CSS stylesheet to provide a more customized appearance. Each page has scripts for JavaScript, JQuery, and Popper.js which Bootstrap requires as dependencies. 
 
 
 ## Testing
@@ -60,10 +60,10 @@ To run this website locally, it is useful to install the Live Server extension i
 Code samples from the Bootstrap documentation were used for the header, footer, embedded responsive video, photo gallery cards  and contact form.
 
 ### Content
-* The touring calendar content was taken from the official Apocalyptica website. [Apocalyptica Offical Website](https://www.apocalyptica.com/en/)
+* The touring calendar content was taken from the official Apocalyptica website. [Apocalyptica Offical Website]("https://www.apocalyptica.com/en/")
 * The embedded video of concert footage is taken from Apocalyptica's offical YouTube channel [here](https://www.youtube.com/user/ApocalypticaVideos), which is linked in the footer as well. 
 * The Music page bio comes from an interview with Eicca in [StringOvation magazine]("https://www.connollymusic.com/stringovation/artist-interview-apocalyptica")
-* 
+
 
 
 
