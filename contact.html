@@ -4,87 +4,121 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta http-equiv="X-UA-Compatible" content="ie=edge">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0-11/css/all.min.css">
 <link rel="stylesheet" href="style.css">
 <title>Apocalyptica Fansite</title>
 </head>
 <body>
-    <!--Navbar with links to Home, Members, Music, Photos, current page active-->
+    <div class="container-fluid">
+<!--Navbar with links to Home, Members, Music, Photos, current page active-->
 <nav class="navbar navbar-expand-md bg-dark navbar-dark">
-        <!-- Brand -->
-        <a class="navbar-brand" href="https://www.apocalyptica.com/en/">Apocalyptica Fansite</a>
-      
-        <!-- Toggler/collapsibe Button -->
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <!-- Navbar links -->
-        <div class="collapse navbar-collapse" id="collapsibleNavbar">
-          <ul class="navbar-nav">
-            <li class="nav-item">
-              <a class="nav-link" href="index.html">Home</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="members.html">Members</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="music.html">Music</a>
-            </li> 
-            <li class="nav-item">
-              <a class="nav-link" href="photos.html">Photos</a>
-              </li>
-            <li class="nav-item">
-                <a class="nav-link active" href="contact.html">Contact</a>
-              </li>
-          </ul>
-        </div> 
-    </nav>
-<!--Contact the band here, contact form-->
-<h1>Contact the band!</h1>
-<div class="container">
-	<div class="row">
-      <div class="col-md-6 col-md-offset-3 contact">
-          <form class="form-horizontal" action="" method="post">
-          <fieldset>
-            <legend class="text-center">Drop us a line!</legend>
-    
-            <!-- Name input-->
-            <div class="form-group">
-              <label class="col-md-3 control-label" for="name">Name</label>
-              <div class="col-md-9">
-                <input id="name" name="name" type="text" placeholder="Your name" class="form-control" required>
-              </div>
-            </div>
-    
-            <!-- Email input-->
-            <div class="form-group">
-              <label class="col-md-3 control-label" for="email">Your E-mail</label>
-              <div class="col-md-9">
-                <input id="email" name="email" type="email" placeholder="Your email" class="form-control" required>
-              </div>
-            </div>
-    
-            <!-- Message body -->
-            <div class="form-group">
-              <label class="col-md-3 control-label" for="message">Your message</label>
-              <div class="col-md-9">
-                <textarea class="form-control" id="message" name="message" placeholder="Please enter your message here..." rows="5" required></textarea>
-              </div>
-            </div>
-    
-            <!-- Form actions -->
-            <div class="form-group">
-              <div class="col-md-12 text-right">
-                <button type="submit" class="btn btn-primary btn-lg">Submit</button>
-              </div>
-            </div>
-          </fieldset>
-          </form>
-      </div>
+	<!-- Brand -->
+	<a class="navbar-brand" href="https://www.apocalyptica.com/en/">Apocalyptica Fansite</a>
+  
+	<!-- Toggler/collapsibe Button -->
+	<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+	  <span class="navbar-toggler-icon"></span>
+	</button>
+  
+	<!-- Navbar links -->
+	<div class="collapse navbar-collapse" id="collapsibleNavbar">
+	  <ul class="navbar-nav">
+		<li class="nav-item">
+		  <a class="nav-link" href="index.html">Home</a>
+		</li>
+		<li class="nav-item">
+		  <a class="nav-link" href="members.html">Members</a>
+		</li>
+		<li class="nav-item">
+		  <a class="nav-link" href="music.html">Music</a>
+		</li> 
+		<li class="nav-item">
+		  <a class="nav-link" href="photos.html">Photos</a>
+		  </li>
+		<li class="nav-item">
+			<a class="nav-link active" href="contact.html">Contact</a>
+			</li>
+	  </ul>
+	</div> 
+  </nav>
+<!--Jumbotron image of the band-->
+<h1 class="display-4">Contact Apocalyptica</h1>
+<div class="jumbotron jumbotron-fluid jumbotron-contact">
+	<div class="container">
+	  
 	</div>
-</div>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  </div>
+<!--CONTENT SPECIFIC TO THE PAGE starts here-->
+<div class="container">
+        <div class="row justify-content-center">
+          <div class="col-md-6 col-md-offset-3 contact">
+              <form class="form-horizontal" action="" method="post">
+              <fieldset>
+                <legend class="text-center">Drop us a line!</legend>
+        
+                <!-- Name input-->
+                <div class="form-group">
+                  <label class="col-md-3 control-label" for="name">Name</label>
+                  <div class="col-md-9">
+                    <input id="name" name="name" type="text" placeholder="Your name" class="form-control" required>
+                  </div>
+                </div>
+        
+                <!-- Email input-->
+                <div class="form-group">
+                  <label class="col-md-3 control-label" for="email">Your E-mail</label>
+                  <div class="col-md-9">
+                    <input id="email" name="email" type="email" placeholder="Your email" class="form-control" required>
+                  </div>
+                </div>
+        
+                <!-- Message body -->
+                <div class="form-group">
+                  <label class="col-md-3 control-label" for="message">Your message</label>
+                  <div class="col-md-9">
+                    <textarea class="form-control" id="message" name="message" placeholder="Please enter your message here..." rows="5" required></textarea>
+                  </div>
+                </div>
+        
+                <!-- Form actions -->
+                <div class="form-group">
+                  <div class="col-md-12 text-right">
+                    <button type="submit" class="btn btn-primary btn-lg">Submit</button>
+                  </div>
+                </div>
+              </fieldset>
+              </form>
+          </div>
+        </div>
+    </div>
+<!--footer with band logo and social media links starts here-->
+<footer class="container-fluid">
+	<div class="row">
+		<div class="col-sm-12 col-md-6">
+			<img src="images/logo.png" alt="band logo" class="img-fluid">
+		</div> <!--end col-->
+		<div class="col-sm-12 col-md-6">
+			<ul class="list-inline">
+  <li class="list-inline-item">
+	<a href="https://www.facebook.com/Apocalyptica/" target ="_blank"><i class="fab fa-facebook"></i></a></li>
+	<li class="list-inline-item">
+	<a href="https://www.youtube.com/user/ApocalypticaVideos" target ="_blank"><i class="fab fa-youtube"></i></a></li>
+	<li class="list-inline-item">
+    <a href="https://www.instagram.com/apocalypticaofficial/?hl=en" target ="_blank"><i class="fab fa-instagram"></i></a></li>
+    <li class="list-inline-item">
+        <a href="https://twitter.com/apocalypticafi" target ="_blank"><i class="fab fa-twitter"></i></a></li>
+</ul>
+		</div><!--end col-->
+	</div> <!--end row-->
+  <!-- Copyright -->
+  <div class="footer-copyright text-left py-3">© 2019 Copyright:
+    <a href="https://github.com/toamber2/apocalyptica" target="_blank"> Amber Elaine Touch</a>
+  </div>
+</footer>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.slim.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.15.0/umd/popper.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.min.js"></script>
+</div><!--end container fluid-->
 </body>
 </html>
