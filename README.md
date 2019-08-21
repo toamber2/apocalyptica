@@ -49,7 +49,7 @@ Bootstrap 4 [Bootstrap](https://getbootstrap.com/) was used because it provides 
 
 ## Testing
 ### Validation
-The code was validated using W3Schools Markup Validation Service https://validator.w3.org/
+The html code was validated using [W3Schools Markup Validation Service]("https://validator.w3.org/") and the css was validated using [Jigsaw]("https://jigsaw.w3.org/css-validator/").
 
 ### Testing User Stories
 * Users can see photos of the band on the Jumbotron on each page, and a gallery of photos on the Photos page. Additionally, the footer has links to Apocolyptica's Instagram and Facebook for more photos. 
