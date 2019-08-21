@@ -103,6 +103,16 @@ iframe {
 	height:100vh;
 	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
   }
+  .jumbotron-contact {
+	border:4px solid #002159;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	background-image: url("images/band_skull.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+  }
   /*end jumbotron styles*/
   .card-img-top {
 	height: 400px;
