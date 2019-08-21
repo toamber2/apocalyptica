@@ -60,8 +60,12 @@ To run this website locally, it is useful to install the Live Server extension i
 Code samples from the Bootstrap documentation were used for the header, footer, embedded responsive video, photo gallery cards  and contact form.
 
 ### Content
-The touring calendar content was taken from the official Apocalyptica website. [Apocalyptica Offical Website](https://www.apocalyptica.com/en/)
-The embedded video of concert footage is taken from Apocalyptica's offical YouTube channel [here](https://www.youtube.com/user/ApocalypticaVideos), which is linked in the footer as well. 
+* The touring calendar content was taken from the official Apocalyptica website. [Apocalyptica Offical Website](https://www.apocalyptica.com/en/)
+* The embedded video of concert footage is taken from Apocalyptica's offical YouTube channel [here](https://www.youtube.com/user/ApocalypticaVideos), which is linked in the footer as well. 
+* The Music page bio comes from an interview with Eicca in [StringOvation magazine]("https://www.connollymusic.com/stringovation/artist-interview-apocalyptica")
+* 
+
+
 
 ### Media
 * [Discogs](https://www.discogs.com/artist/17482-Apocalyptica) is the source for photos: discogs1.jpg, discogs2.jpg, discogs3.jpg, discogs4.jpg
