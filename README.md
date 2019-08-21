@@ -64,15 +64,16 @@ The touring calendar content was taken from the official Apocalyptica website. [
 The embedded video of concert footage is taken from Apocalyptica's offical YouTube channel [here](https://www.youtube.com/user/ApocalypticaVideos), which is linked in the footer as well. 
 
 ### Media
-*Discogs[Discogs](https://www.discogs.com/artist/17482-Apocalyptica) is the source for photos [discogs1, discogs2, discogs3, discogs4].
-*The offical band website [Apocalyptica](https://www.apocalyptica.com/en/) is the source for photos [band_wall, five_members, band_skull, band_members, apocalyptica_crowd, apocalyptica_logo]
-*Members page gallery photos were taken from wikipedia: 
-*Eicca's member's page photo attribution: [By Tuomas Vitikainen - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=7378605)
-*portrait mode from here [Wikipedia](https://en.wikipedia.org/wiki/Eicca_Toppinen#/media/File:Eicca_Toppinen_-_Ilosaarirock_2009.jpg)
-*Paava large size [By Tuomas Vitikainen - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=7379186)
+* [Discogs](https://www.discogs.com/artist/17482-Apocalyptica) is the source for photos: discogs1.jpg, discogs2.jpg, discogs3.jpg, discogs4.jpg
+* [The offical band website](https://www.apocalyptica.com/en/) is the source for photos: band_wall.jpg, five_members.jpg, band_skull.jpg, band_members.jpg, apocalyptica_crowd.jpg, apocalyptica_logo.jpg. 
+* Members page gallery photos were taken from wikipedia.
+* Eicca's member's page photo attribution: [By Tuomas Vitikainen - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=7378605)
+* Eicca's portrait mode from here [Wikipedia](https://en.wikipedia.org/wiki/Eicca_Toppinen#/media/File:Eicca_Toppinen_-_Ilosaarirock_2009.jpg)
+* Paava large size [By Tuomas Vitikainen - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=7379186)
 [Wikipedia](https://en.wikipedia.org/wiki/Paavo_L%C3%B6tj%C3%B6nen#/media/File:Paavo_L%C3%B6tj%C3%B6nen_-_Ilosaarirock_2009.jpg)
-*Mikko [By P. Schwichtenberg - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=34587934)
- and [Wikipedia](https://en.wikipedia.org/wiki/Mikko_Sir%C3%A9n)
+* Mikko [By P. Schwichtenberg - Own work, CC BY-SA 3.0](https://commons.wikimedia.org/w/index.php?curid=34587934)
+ and [ also from Wikipedia](https://en.wikipedia.org/wiki/Mikko_Sir%C3%A9n)
+ * The contact page jumbotron image was taken from [Wikipedia]("https://upload.wikimedia.org/wikipedia/commons/8/81/Apocalyptica_-_Ilosaarirock_2009.jpg")
 
 
 ### Acknowledgements
