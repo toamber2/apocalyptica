@@ -34,15 +34,6 @@ The brief for this milestone provides specifications to make a static website th
 
 The contact form does not hook in to a back end at this time, but that is a feature I can expand upon in the future.
 
-### Contact form
-Users can click "Contact" in the navbar and be directed to the Contact page. There they can view the Contact form. The form has text input fields for Name, Email and Message. 
-
-If a user clicks Submit without entering a value for all three of these fields, they will get a message that informs them that they must enter a value for the required field. 
-
-If a user enters an email address without an @ sign, tney will be prompted to add that character. If they add the @ character at the end, they will be prompted to add the rest of the email address. 
-
-If the user enters appropriate values in all three fields and then clicks Submit, the site will return a 405 error. This error occurs because the contact form is not connected to a backend at this time.
-
 ## Technologies used
 Bootstrap 4 [Bootstrap](https://getbootstrap.com/) was used because it provides a responsive grid that enables the site to display on any screen size. Default Bootstrap styling was supplemented with an external CSS stylesheet to provide a more customized appearance. Each page has scripts for JavaScript, JQuery, and Popper.js which Bootstrap requires as dependencies. 
 
@@ -59,6 +50,14 @@ The html code was validated using [W3Schools Markup Validation Service]("https:/
 * Users can read about the band in the Bio section on the homepage, by reading the individual bios on the Members page, and can access more information about them by following the Facebook link in the footer. 
 
 * Users can see the concert calendar on the homepage, so they can plan to attend a concert. They can purchase tickets to a show by clicking the "buy" link.
+
+* Users can click "Contact" in the navbar and be directed to the Contact page. There they can view the Contact form. The form has text input fields for Name, Email and Message. 
+
+If a user clicks Submit without entering a value for all three of these fields, they will get a message that informs them that they must enter a value for the required field. 
+
+If a user enters an email address without an @ sign, tney will be prompted to add that character. If they add the @ character at the end, they will be prompted to add the rest of the email address. 
+
+If the user enters appropriate values in all three fields and then clicks Submit, the site will return a 405 error. This error occurs because the contact form is not connected to a backend at this time.
 
 ### Testing Responsiveness
 Photos, video, tables, contact form and photo cards are responsive at each screen size: mobile, tablet, and desktop. Tablet and mobile screen sizes render well in portrait and landscape modes. This was tested using Chrome Developer Tools.
